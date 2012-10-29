@@ -1,4 +1,7 @@
-////////////////////////////////////////////////////////////////
+# Ruby on Rails Tutorial: first application This is the first application for [*Ruby on Rails Tutorial*]
+[править]
+
+////////////////////////////////////////////////////////////
 
 	GIT - the stupid content tracker
 
@@ -49,8 +52,3 @@ the body to majordomo@vger.kernel.org. The mailing list archives are
 available at http://marc.theaimsgroup.com/?l=git and other archival
 sites.
 
-The messages titled "A note from the maintainer", "What's in
-git.git (stable)" and "What's cooking in git.git (topics)" and
-the discussion following them on the mailing list give a good
-reference for project status, development direction and
-remaining tasks.
